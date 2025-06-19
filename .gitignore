@@ -12,3 +12,5 @@ wheels/
 /livedoor2.json
 /vectors-livedoor-static.npy
 /livedoor_vectors.duckdb
+
+.idea
